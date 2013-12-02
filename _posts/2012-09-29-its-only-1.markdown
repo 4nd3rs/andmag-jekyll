@@ -1,0 +1,88 @@
+---
+author: admin
+comments: true
+date: 2012-09-29 21:38:31+00:00
+layout: post
+slug: its-only-1
+title: '"It''s only 1%"'
+wordpress_id: 350
+categories:
+- Responsive Web Design
+tags:
+- Analytics
+- Browser support
+- Device support
+---
+
+I hear this again and again. Decision makers look at their statistics and say: "We do not care about this device or browser, it's only 1% of the current traffic". 
+
+
+
+
+
+There are many things that are wrong and naive about such a statement. I am going to point at four things that I think you need to consider before you make a decision about supporting a browser or device based on statistics from a current site .
+
+
+
+
+
+![](http://andmag.se/wp-content/uploads/2012/09/cows-crowd.jpeg)  
+
+_Y U NO CARE ABOUT US?_
+
+
+
+<!-- more -->
+
+
+# 1 - 1% is a lot
+
+
+
+
+Get out your calculator if you can't do the math in your head. We should never look at percentages; we should look at the number of people that we affect. Much of the work we do as web professionals is for sites with a lot of traffic. If the site you are working on has 100K unique visitors each week it means that 1% is a thousand people. Pack them together outside your house and you will see that it is not an insignificant number. 
+
+
+
+
+
+# 2 - Consider trends
+
+
+
+
+If a browser accounts for 1% and is decreasing, you need to consider it differently than if it is increasing. It's still a thousand people, but we need to look also at the next point before making our decision.
+
+
+
+
+
+# 3 - Is it upgradable?
+
+
+
+
+Is the 1% you are looking at using an upgradable browser or OS? If the answer is yes and traffic is decreasing, you can probably spend your energy at other things. It they are stuck on a software version (for instance Windows Phone 7 users) you need to consider that it will take much longer time before these people will switch to something else. 
+
+
+
+
+
+# 4 - Don't make decisions based on your own statistics alone
+
+
+
+
+If your site looks crappy on a certain device, they will remember you, hate you and never visit your site again. Or if you are lucky: they will hate you, forget you and never visit your site again. You will think that "the problem has gone away by itself", but the fact is that you have many users and customers that are not happy with you and they moved on. So you are in fact loosing business. And this is not because you have a crappy product or they don't like your content, it's because of the way you use web technology. See if you can find some reference statistics to measure yourself up against and try and figure out what you are missing out on.
+
+
+ 
+
+
+So please, think twice before excluding people. Often, it is just very small adjustments that need to be done in order to make life pleasant for thousands of people.
+
+
+
+
+
+_Image credit: [http://www.flickr.com/photos/kevenlaw/2671783950/](http://www.flickr.com/photos/kevenlaw/2671783950/)_

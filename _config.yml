@@ -1,0 +1,4 @@
+name: andmag.se
+markdown: redcarpet
+pygments: true
+exclude:  [ Gemfile, Gemfile.lock, Procfile, vendor, gems]
